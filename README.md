@@ -2,7 +2,7 @@
 
 # Calculator Project 🔴
 
-Visit the deployed site: [Javascript Calculator Project]([https://kimbergstroem.github.io/loveMaths/](https://kimbergstroem.github.io/mathCalculator-Js-App/))
+Visit the deployed site: [Javascript Calculator Project]([https://kimbergstroem.github.io/loveMaths/](https://kimbergstroem.github.io/mathCalculator-Js-App/])
 
 Is a web project created using JavaScript, HTML, and CSS. It is a fun and interactive way for users to test their math skills. The project includes four different game modes: addition, subtraction, multiplication, and division. When a user selects a game mode, the project generates two random numbers within a certain range and displays them on the screen with the appropriate math operator. The user then inputs their answer, and the project checks whether it is correct or incorrect. After each question, the project displays the user's score and allows them to continue playing or start a new game. The project is designed to be engaging and easy to use, with a clean and modern user interface. It is a great way for users of all ages to practice their math skills and have fun at the same time! This main purpose of this project, was to increase my level of Javascript knowledge.
 
