@@ -1,6 +1,6 @@
 # Calculator Project 
 
-Visit the deployed site: [Javascript Calculator Project](https://kimbergstroem.github.io/mathCalculator-Js-App/)
+Visit the deployed site here: [Javascript Calculator Project](https://kimbergstroem.github.io/mathCalculator-Js-App/)
 
 ## Overview
 
